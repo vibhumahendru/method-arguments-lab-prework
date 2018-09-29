@@ -1,3 +1,3 @@
 def introduction(name)
-  puts name
+  puts `
 end
